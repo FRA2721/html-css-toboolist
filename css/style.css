@@ -4,3 +4,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* COMMON */
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+/* logo */
+#logo{
+    background-color: hsl(0deg 0% 100%);
+}
+
+/* title */
+#title{
+    display: inline-block;
+    line-height: 2rem;
+    text-align: center;
+}
