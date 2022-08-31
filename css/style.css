@@ -127,6 +127,8 @@ li {
     border-color: red;
 }
 
+/* tag_section */
+/* tag */
 .tag {
     font-size: 1.2rem;
     color: white;
@@ -134,9 +136,41 @@ li {
     border-radius: 10px;  
 }
 
-.tag-1 {
-    background-color: #F29E33; 
+/* tag_1 */
+.tag_1 {
+    background-color: #45abea; 
 }
-.tag-2 {
-    background-color: #D863A1;
+
+/* tag_2 */
+.tag_2 {
+    background-color:#9c72e4;
+}
+
+/* tag_3 */
+.tag_3 {
+    background-color: #64c0a9;
+}
+
+/* tag_4 */
+.tag_4 {
+    background-color: #f29e33;
+}
+
+/* tag_5 */
+.tag_5 {
+    background-color: #d863a1;
+}
+
+/* tag_6 */
+.tag_6 {
+    background-color: #b0c926;
+}
+/* /tag_section */
+
+/* footer */
+footer{
+    color: #8dcd63;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
 }
